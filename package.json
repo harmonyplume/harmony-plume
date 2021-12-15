@@ -1,32 +1,19 @@
 {
-  "name": "quick-parcel-project",
+  "name": "harmony-plume",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
-    "start": "parcel index.html",
-    "start-multiple-entries": "parcel index.html centered.html what.html ",
-    "build": "parcel build index.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "assets": "^3.0.1",
-    "desandro-matches-selector": "^2.0.2",
-    "ev-emitter": "^2.1.0",
-    "fizzy-ui-utils": "^3.0.0",
-    "get-size": "^2.0.3",
-    "isotope": "^1.0.0-alpha.3",
-    "jquery": "^3.6.0",
-    "masonry-layout": "^4.2.2",
-    "outlayer": "^2.1.1",
-    "parcel-plugin-asset-copier": "^1.1.0",
-    "parcel-plugin-html-root-syntax": "0.0.3",
-    "scss": "^0.2.4"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harmonyplume/harmony-plume.git"
   },
-  "devDependencies": {
-    "parcel-bundler": "^1.6.1",
-    "sass": "^1.26.11",
-    "typescript": "^4.4.3"
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harmonyplume/harmony-plume/issues"
   },
-  "keywords": [],
-  "assetsPath": "assets"
+  "homepage": "https://github.com/harmonyplume/harmony-plume#readme"
 }
